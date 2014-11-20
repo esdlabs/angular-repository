@@ -20,6 +20,7 @@ Then add `ngRepository` as a dependency for your app:
 
 ```javascript
 angular.module('myApp', ['ngRepository']);
+```
 
 ## Documentation
 
