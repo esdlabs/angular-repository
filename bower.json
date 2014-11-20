@@ -1,0 +1,25 @@
+{
+  "name": "angular-repository",
+  "version": "v0.1.0",
+  "authors": [
+    "Edgar Nadal <edgarnadal@esd.com.do>"
+  ],
+  "main": "src/angular-repository.js",
+  "dependencies": {
+    "angular": "~1.3.*",
+    "angular-resource": "~1.3.*"
+  },
+  "keywords": [
+    "angular",
+    "repository",
+    "resource"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
